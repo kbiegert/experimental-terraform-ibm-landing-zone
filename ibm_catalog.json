@@ -208,7 +208,7 @@
             {
               "name": "deploy-arch-ibm-account-infra-base",
               "id": "9fcd1945-8ebc-4072-85dc-6400653e7077",
-              "version": ">=v1.16.2",
+              "version": ">=v1.11.6",
               "flavors": [
                 "standard"
               ],
@@ -512,7 +512,7 @@
             {
               "name": "deploy-arch-ibm-account-infra-base",
               "id": "9fcd1945-8ebc-4072-85dc-6400653e7077",
-              "version": ">=v1.16.2",
+              "version": ">=v1.11.6",
               "flavors": [
                 "standard"
               ],
