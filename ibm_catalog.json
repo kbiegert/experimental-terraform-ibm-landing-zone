@@ -160,21 +160,21 @@
               "flavors": [
                 "standard"
               ],
-              "id": "daf2cf91-2384-4205-b7f4-621299a4896d",
+              "id": "5a722ff3-440a-49d4-b149-19e794bc10ca",
               "version": ">=1.2.2",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": []
             },
             {
               "name": "testing-deploy-arch-ibm-kms",
-              "id": "85fdbd7a-8c77-4abd-b716-653a31f3aba9",
+              "id": "8617dc05-f1f4-479b-8b38-ef6b04002148",
               "version": ">=1.0.6",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -186,13 +186,13 @@
             },
             {
               "name": "testing-deploy-arch-ibm-secrets-manager",
-              "id": "5f149ae6-d781-460a-977d-c8c4171ad0fa",
+              "id": "8f2f4d2e-1613-4c13-956f-d048e075d331",
               "version": ">=1.2.1",
               "on_by_default": true,
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "input_mapping": [
                 {
@@ -207,12 +207,12 @@
             },
             {
               "name": "deploy-arch-ibm-account-infra-base",
-              "id": "63641cec-6093-4b4f-b7b0-98d2f4185cd6-global",
+              "id": "9fcd1945-8ebc-4072-85dc-6400653e7077",
               "version": ">=v1.16.2",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -439,9 +439,9 @@
               "flavors": [
                 "standard"
               ],
-              "id": "daf2cf91-2384-4205-b7f4-621299a4896d",
+              "id": "5a722ff3-440a-49d4-b149-19e794bc10ca",
               "version": ">=1.2.2",
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -461,12 +461,12 @@
             },
             {
               "name": "testing-deploy-arch-ibm-kms",
-              "id": "85fdbd7a-8c77-4abd-b716-653a31f3aba9",
+              "id": "8617dc05-f1f4-479b-8b38-ef6b04002148",
               "version": ">=1.0.6",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -486,12 +486,12 @@
             },
             {
               "name": "testing-deploy-arch-ibm-secrets-manager",
-              "id": "5f149ae6-d781-460a-977d-c8c4171ad0fa",
+              "id": "8f2f4d2e-1613-4c13-956f-d048e075d331",
               "version": ">=1.2.1",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -511,12 +511,12 @@
             },
             {
               "name": "deploy-arch-ibm-account-infra-base",
-              "id": "63641cec-6093-4b4f-b7b0-98d2f4185cd6-global",
+              "id": "9fcd1945-8ebc-4072-85dc-6400653e7077",
               "version": ">=v1.16.2",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": [
@@ -532,12 +532,12 @@
             },
             {
               "name": "testing-deploy-arch-ibm-observability-agents",
-              "id": "d4c29f77-c55d-4a53-a218-4f026cde32c0",
+              "id": "e360341c-ba74-43fe-a4fb-b18403dbea6b",
               "version": ">=1.2.4",
               "flavors": [
                 "standard"
               ],
-              "catalog_id": "f64499c8-eb50-4985-bf91-29f9e605a433",
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
               "optional": true,
               "on_by_default": true,
               "input_mapping": []

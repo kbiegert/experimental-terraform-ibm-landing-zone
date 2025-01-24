@@ -95,7 +95,7 @@
   "members": [
     {
       "name": "Workload - Code Engine Projects",
-      "version_locator": "7a4d68b4-cf8b-40cd-a3d1-f49aff526eb3.45457859-aaf7-4f87-8c1e-09422a0da2b8-global",
+      "version_locator": "9212a6da-ac9b-4f3c-94d8-83a866e1a250.0d1a9452-23a9-442e-b503-2ba1023fdaf4",
       "inputs": [
         {
           "name": "ibmcloud_api_key",
@@ -128,7 +128,7 @@
     },
     {
       "name": "Workload - Application Lifecycle Management",
-      "version_locator": "1082e7d2-5e2f-0a11-a3bc-f88a8e1931fc.fba3ffcb-9f24-4ed8-83a7-5d3f5ac2122d-global",
+      "version_locator": "9212a6da-ac9b-4f3c-94d8-83a866e1a250.08c0521a-4834-4688-9405-a1226f35a597",
       "inputs": [
         {
           "name": "ibmcloud_api_key",
