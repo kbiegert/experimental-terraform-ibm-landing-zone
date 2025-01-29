@@ -95,7 +95,7 @@
   "members": [
     {
       "name": "Workload - Code Engine Projects",
-      "version_locator": "9212a6da-ac9b-4f3c-94d8-83a866e1a250.0d1a9452-23a9-442e-b503-2ba1023fdaf4",
+      "version_locator": "9212a6da-ac9b-4f3c-94d8-83a866e1a250.f0b8d771-851e-4e8c-93c2-d864bc8a261b",
       "inputs": [
         {
           "name": "ibmcloud_api_key",
