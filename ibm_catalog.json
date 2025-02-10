@@ -529,18 +529,6 @@
                   "version_input": "existing_resource_group_name"
                 }
               ]
-            },
-            {
-              "name": "testing-deploy-arch-ibm-observability-agents",
-              "id": "e360341c-ba74-43fe-a4fb-b18403dbea6b",
-              "version": ">=1.2.4",
-              "flavors": [
-                "standard"
-              ],
-              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
-              "optional": true,
-              "on_by_default": true,
-              "input_mapping": []
             }
           ],
           "configuration": [
