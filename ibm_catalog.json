@@ -603,6 +603,60 @@
           "dependency_version_2": true,
           "outputs": [],
           "install_type": "extension"
+        },
+        {
+          "label": "Quickstart",
+          "name": "quickstart",
+          "working_directory": "solutions/quickstart",
+          "compliance": {
+            "authority": "scc-v3",
+            "profiles": [
+              {
+                "profile_name": "AI Security Guardrails 2.0",
+                "profile_version": "1.0.0"
+              }
+            ]
+          },
+          "iam_permissions": [],
+          "architecture": {
+            "diagrams": [
+              {
+                "diagram": {
+                  "url": "https://raw.githubusercontent.com/terraform-ibm-modules/dev-rag/main/reference-architecture/rag-stack.svg",
+                  "caption": "Solution components",
+                  "type": "image/svg+xml",
+                  "thumbnail_url": "https://raw.githubusercontent.com/terraform-ibm-modules/dev-rag/main/reference-architecture/rag-stack.svg"
+                },
+                "description": "Solution components"
+              }
+            ]
+          },
+          "dependencies": [
+            {
+              "name": "deploy-arch-ibm-account-infra-base",
+              "id": "9fcd1945-8ebc-4072-85dc-6400653e7077",
+              "version": ">=v1.11.6",
+              "flavors": [
+                "standard"
+              ],
+              "catalog_id": "9212a6da-ac9b-4f3c-94d8-83a866e1a250",
+              "optional": true,
+              "on_by_default": true,
+              "input_mapping": [
+                {
+                  "dependency_output": "devops_resource_group_name",
+                  "version_input": "toolchain_resource_group"
+                },
+                {
+                  "dependency_output": "workload_resource_group_name",
+                  "version_input": "existing_resource_group_name"
+                }
+              ]
+            }
+          ],
+          "dependency_version_2": true,
+          "outputs": [],
+          "install_type": "extension"
         }
       ]
     }
