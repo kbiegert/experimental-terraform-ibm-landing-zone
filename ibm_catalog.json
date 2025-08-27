@@ -27,6 +27,7 @@
         {
           "label": "Basic (Deploy on Code Engine)",
           "name": "basic",
+          "index": 1,
           "working_directory": "solutions/basic",
           "compliance": {
             "authority": "scc-v3",
@@ -294,6 +295,7 @@
         {
           "label": "Standard (Deploy on Red Hat OpenShift)",
           "name": "standard",
+          "index": 2,
           "working_directory": "solutions/standard",
           "compliance": {
             "authority": "scc-v3",
@@ -607,6 +609,7 @@
         {
           "label": "Quickstart",
           "name": "quickstart",
+          "index": 0,
           "working_directory": "solutions/quickstart",
           "compliance": {
             "authority": "scc-v3",
